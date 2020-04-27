@@ -1,0 +1,6 @@
+*.pyc
+./env1
+./env*
+##env*/ & env1  not effect  -- exp ...
+env*/
+env1/
